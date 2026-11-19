@@ -1,1 +1,5 @@
-
+# No external libraries required
+# Uses Python built-in functions                                                                                                                                                                       # No external libraries required
+# Tkinter is included with many Python installations 
+# Uses os, shutil and pathlib
+# No external libraries required
